@@ -3,4 +3,4 @@
 
 # Usage
 
-- python3 mwe.py <url>
+- `python3 mwe.py <url>`
